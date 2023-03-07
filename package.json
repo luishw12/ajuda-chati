@@ -18,5 +18,17 @@
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "typescript": "4.9.5"
+  },
+  "devDependencies": {
+    "@emotion/react": "^11.10.6",
+    "@emotion/styled": "^11.10.6",
+    "@mui/icons-material": "^5.11.11",
+    "@mui/material": "^5.11.12",
+    "autoprefixer": "^10.4.13",
+    "design-system-toshyro": "^0.0.4-beta",
+    "postcss": "^8.4.21",
+    "react-hook-form": "^7.43.5",
+    "react-icons": "^4.8.0",
+    "tailwindcss": "^3.2.7"
   }
 }
